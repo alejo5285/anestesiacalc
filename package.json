@@ -1,0 +1,14 @@
+{
+  "name": "anestesiacalc",
+  "version": "1.0.0",
+  "description": "Calculadora Anestesia Eleveld - designed by Alejo Montes",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo build done"
+  },
+  "dependencies": {
+    "@capacitor/core": "^5.0.0",
+    "@capacitor/android": "^5.0.0",
+    "@capacitor/ios": "^5.0.0"
+  }
+}

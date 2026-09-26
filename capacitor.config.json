@@ -1,0 +1,9 @@
+{
+  "appId": "com.alejomontes.anestesiacalc",
+  "appName": "AnestesiaCalc",
+  "webDir": ".",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}
